@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5500,["/Portfolio/_next/static/chunks/e3af02b450697e60.js"],"Image"]
+3:I[97367,["/Portfolio/_next/static/chunks/ff1a16fafef87110.js","/Portfolio/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"NSxUDgUB0fdP8YfbRaVXL","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"hidden lg:flex fixed bottom-0 right-4 h-128 w-64 border border-black  justify-center rounded-lg z-40","children":["$","div",null,{"className":"h-12 w-full flex items-center justify-center gap-2 p-2 bg-gray-900","children":[["$","$L2",null,{"src":"/askscotty.png","alt":"Ask Scotty Logo","width":24,"height":24,"style":{"filter":"invert(1)"}}],["$","h3",null,{"className":"text-white text-md","children":"Ask Scotty"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
